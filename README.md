@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tombulibo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ssm
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on tygDemo1
 - 📫 How to reach me ... chinachengyuantong@163.com
 
