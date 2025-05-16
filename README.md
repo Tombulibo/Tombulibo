@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tombulibo
 - 👀 I’m interested in coding
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on tygDemo1
+- 🌱 I’m currently study in NanChang University
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... chinachengyuantong@163.com
 
 <!---
